@@ -24,7 +24,7 @@ Algoritmo cajero_automatico
 		SiNo
 					si oction =2 Entonces
 						Escribir "grasias por utilizar nuestos cajeros"
-						Escribir "!asta pronto¡"
+						Escribir "!asta prontoÂ¡"
 				    
 				FinSi
 			FinSi
