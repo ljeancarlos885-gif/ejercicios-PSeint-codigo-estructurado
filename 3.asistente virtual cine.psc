@@ -5,19 +5,19 @@ Algoritmo cine
 	Leer edad
 	
 	Si edad < 7 Entonces
-			Escribir "Recomendaci髇: Pel韈ulas animadas y educativas para todas las edades."
+			Escribir "Recomendaci贸n: Pel铆culas animadas y educativas para todas las edades."
 				Sino
 					FinSi
 							Si edad >= 7 y edad <= 17 
-									Entonces Escribir "Recomendaci髇: Pel韈ulas familiares como animaciones, aventuras y comedias."
+									Entonces Escribir "Recomendaci贸n: Pel铆culas familiares como animaciones, aventuras y comedias."
 										SiNo
 											FinSi
 												Si edad >= 18 y edad <= 30 Entonces
-													Escribir "Recomendaci髇: Acci髇, drama, comedia y ciencia ficci髇."
+													Escribir "Recomendaci贸n: Acci贸n, drama, comedia y ciencia ficci贸n."
 														SiNo
 															FinSi
 																Si edad >= 31 Entonces
-																	Escribir "Recomendaci髇: Pel韈ulas cl醩icas y dramas."
+																	Escribir "Recomendaci贸n: Pel铆culas cl谩sicas y dramas."
 																		FinSi
 
 	
