@@ -85,3 +85,4 @@ Algoritmo menu_restaurante
 			Escribir "opcion ivalida (intentalo de nuevo)"
 	Fin Segun
 FinAlgoritmo
+
