@@ -4,7 +4,7 @@ Algoritmo temperatura_umbral
 	Escribir  "escribe la temperatura actual";
 	Leer temperatura;
 	si temperatura > umbral Entonces
-		Escribir "!alerta¡ umbral de temperatura sobrepasado"
+		Escribir "!alertaÂ¡ umbral de temperatura sobrepasado"
 	SiNo
 		Escribir "temperatura normal"
 	FinSi
