@@ -4,14 +4,14 @@ Algoritmo ascensor_rango_umbral
 	Escribir  "escribe la temperatura actual";
 	Leer temperatura;
 	si temperatura > umbral Entonces
-		Escribir "!alerta¡ umbral de temperatura sobrepasado"
-		Escribir "maxima temperatura del umbral " umbral "C°"
+		Escribir "!alertaÂ¡ umbral de temperatura sobrepasado"
+		Escribir "maxima temperatura del umbral " umbral "CÂ°"
 	SiNo
 		Escribir "temperatura normal"
 		Escribir "ingrese el piso deseado"
 		Leer piso;
 		si piso>10 Entonces
-			Escribir "¡error! piso no valido"
+			Escribir "Â¡error! piso no valido"
 		SiNo
 			Escribir "llendo al piso " piso
 		FinSi
